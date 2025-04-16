@@ -1,0 +1,427 @@
+body{
+    font-family: font-family: "Open Sans", sans-serif; 
+    letter-spacing: 1px;
+}
+h1, h2, h3, h4, h5, h6 {
+  
+   font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+
+}
+
+ .top svg{
+   margin-inline: 15px;
+}
+.top a{
+    color: white;
+    text-decoration: none;
+    position: relative;
+    right: 10px;
+    font-size: 13px;
+}
+ 
+ .head svg{
+   margin-inline: 15px;
+}
+.head span{
+    position: relative;
+    right: 10px;
+}
+ 
+.head a{
+    text-decoration: none;
+    color: white;
+    font-size: 13px;
+}
+.head a:hover{
+    color: yellow;
+}
+.head img{
+    height: 30px;
+    width: 30px;
+    margin-inline: 5px;
+}
+.img img{
+   display:inline-block;
+   height: 170px;
+   width: 170px;
+   border: 1px solid grey; 
+   margin: 10px;
+  
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.bord h2{
+ font-size: 25px;
+}
+.welcome h1{
+   font-size: 30px;
+}
+.welcome span{
+     
+    font-size: 14px;
+    color: gray;
+    position: relative;
+    left: 110px;
+    bottom: 15px;
+}
+.welcome p{
+    font-size: 16px;
+    color: gray;
+}
+.welcome b{
+    color:orange ;
+    font-weight: 500;
+}
+.explore span{
+   
+    font-size: 14px;
+    color: gray;
+    position: relative;
+    left: 110px;
+    bottom: 15px;
+}
+.explore h2{
+    font-size: 30px;
+   padding-top: 30px;
+   color: white;
+}
+.product{
+    background-color: white;
+    height: 280px;
+    width: 260px;
+    
+}
+.product img{
+    height: 170px;
+    width: 150px;
+}
+.product p{
+    background-color:#05f9f0 ;
+    font-size: 16px;
+    padding: 8px 50px;
+    position: relative;
+    top: 50px;
+    color: navy;
+}
+.product a{
+    color: white;
+    text-decoration: none;
+}
+.cart svg{
+    position: relative;
+    top: 100px;
+}
+.cart svg:hover{
+  color: orange;
+}
+.logo span{
+    color: white;
+    position: relative;
+    left: 20px;
+    line-height: 45px;
+
+}
+.logo p{
+    font-size: 16px;
+    color: white;
+    position: relative;
+    left: 45px;
+}
+.line{
+    border-bottom:2px solid orange;
+    width: 40px;
+    position: relative;
+    left: 50px;
+}
+.link li{
+    list-style: none;
+}
+.link h3{
+    color: white;
+    font-size: 25px;
+    position: relative;
+    left: 40px;
+}
+.link a{
+    
+   text-decoration: none;
+   color: white;
+   font-size: 16px;
+   line-height: 35px;
+   position: relative;
+    left: 40px;
+    top: 60px;
+}
+.our h2{
+    color: black;
+}
+.our span{
+    font-size: 16px;
+    color: gray;
+    position: relative;
+    left: 110px;
+    bottom: 15px;
+}
+.bank h3{
+    color: white;
+    font-size: 25px;
+     
+}
+.bank p{
+    color: white;
+    line-height: 25px;
+    padding-top: 50px;
+    font-size: 16px;
+}
+.bank h4{
+    padding-top: 50px;
+    color: white;
+    font-size: 22px;
+}
+.bank img{
+    height: 20px;
+    width: 20px;
+    margin-inline: 10px;
+}
+.brand img {
+    margin-inline: 20px;
+}
+
+.copy{
+    position: relative;
+    top: 8px;
+   font-size: 16px;
+}
+
+.about p{
+  color: gray;
+  font-size: 16px;
+}
+.page h1{
+    font-size: 30px;
+}
+.page span{
+     color: orange ;
+}
+.graph p{
+     color: gray;
+     font-size: 16px;
+}
+.graph span{
+    font-size: 16px;
+   font-weight: bold;
+}
+.about h2{
+    font-size: 30px;
+}
+.about span{
+     color: orange;
+}
+.speech h1{
+    font-size: 30px;
+}
+.speech span{
+     color: orange;
+}
+.life h3{
+    font-size: 22px;
+}
+.life p{
+    font-size: 16px;
+   color: gray;
+}
+.life span{
+    font-size: 16px; 
+   color: red;
+   font-weight: bold;
+}
+.great h4{
+    font-size: 16px;
+   color: orange;
+   font-weight: bold;
+}
+.great p{   
+   font-size: 16px;
+   color: gray;
+}
+.thank p{
+    font-size: 16px;
+   color: gray;
+}
+.well h1{
+     
+    font-size: 30px;
+}
+.well span{
+     color:orange ;
+}
+.global h2{
+   
+    font-size: 22px;
+    color: gray;
+}
+.global span{
+    font-weight: bold;
+     }
+.more h2{
+     
+    font-size: 22px;
+    color: gray;
+}
+.more span{
+    font-weight: bold;
+}
+.more li{
+    line-height: 55px;
+    position: relative;
+    left: 30px;
+    font-size: 16px;
+}
+.more p{
+    font-size: 16px; 
+   letter-spacing: 1px;
+}
+.important p{
+    font-size: 16px;
+}
+.direct h1{
+     
+    font-size: 30px;
+    text-align: center;
+}
+.direct span{
+     color: orange;
+}
+.direct p{
+     font-size: 16px;
+    padding-top: 20px;
+}
+.tab table{
+   border-collapse: collapse;
+   width: 100%;
+}
+.tab th{
+    border: 1px solid black;
+    text-align: center;
+}
+.tab td{
+    border: 1px solid black;
+    text-align: center;
+    padding:14px;
+}
+.branch h1{
+  
+    font-size: 30px;
+    text-align: center;
+}
+.branch span{
+     color: orange ;
+}
+.contact h1{
+  
+    font-size: 30px;
+    text-align: center;
+}
+
+.contact p{
+     padding-top: 20px;
+     font-size: 16px;
+}
+.contact b{
+     color: orange;
+     font-weight: 500;
+}
+ 
+
+
+
+
+@media all and (min-width: 992px) {
+    .navbar .dropdown-menu-end{ 
+         color:white ; 
+        left:auto; 
+}
+
+.navbar .nav-item .dropdown-menu{ 
+     display:block; 
+     opacity: 0;  
+     visibility: hidden; 
+     transition:.5s; 
+     margin-top: 0;
+     line-height: 30px;
+    
+    }
+.nav-link {
+   font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-size: 13px;  
+    margin-inline: 7px;
+   }
+
+.navbar .dropdown-menu.fade-up a{ 
+    top:80%; 
+    transform-origin: 0% 0%; 
+    color:white;    
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-size: 13px; 
+    border-bottom: 1px solid white;
+     
+}
+.navbar .dropdown-menu.fade-up a:hover{
+    background-color: orange;
+} 
+
+.navbar .dropdown-menu.fade-up{
+     top:180%; 
+     color:white;
+
+    }
+
+.navbar .nav-item:hover .dropdown-menu{
+     transition: .4s; 
+     opacity:1; 
+     visibility:visible; 
+     top:100%; 
+     transform: rotateX(0deg);
+     background-color:#804f95;
+    }
+    
+}
+
+@media all and (max-width:620px) {
+    .link a{
+       top: 20px; 
+    }
+    .welcome span{
+        font-size: 10px;
+    }
+    .text a{
+        position: relative;
+        top: 140px;
+        font-size: 24px;
+    }
+    .image{
+        position: relative;
+        top: 15px;
+    }
+    .top svg{
+        display: none;
+    }
+    .top a{
+        display: none;
+    }
+    .head img{
+       display: none;
+    }
+
+}
